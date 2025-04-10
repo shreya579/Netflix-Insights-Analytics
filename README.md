@@ -117,7 +117,7 @@ Each page uses slicers, tooltips, and custom visuals for interactive analysis.
 ---
 
 ## Project Structure
-
+```
 netflix-content-analysis/
 │
 ├── data/
